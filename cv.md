@@ -1,5 +1,8 @@
+# Karpov Yahor #
 ## Contacts ##
  #### Email: *mingshifer@gmail.com* ####
+ #### Telegram:*Mark Shifer* ####
+ #### Discord:Vezd#6910 ####
 
 ### Going to the goal of becoming a web developer.I try to make every effort to learn new information and in case of failure, I quickly return to work ###
 
@@ -7,6 +10,8 @@
  #### Html ####
  #### Css ####
  #### Git ####
+ #### Illustrator ####
+ #### Photoshop ####
 
 ### This is an example of my code: 
 ```
