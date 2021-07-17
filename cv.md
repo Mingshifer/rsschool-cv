@@ -5,8 +5,8 @@
  * #### Discord:Vezd#6910 ####
 
 ## About me ##
-### Purpose: going to the goal of becoming a web developer. ###
-### My main advantage: I try to make every effort to learn new information and in case of failure, I quickly return to work. ###
+#### Purpose: going to the goal of becoming a web developer. ####
+#### My main advantage: I try to make every effort to learn new information and in case of failure, I quickly return to work. ####
 
 ## I have basic skills in ##
 * #### Html ####
