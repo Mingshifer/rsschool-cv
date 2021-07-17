@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Mingshifer.github.io/rsschool-cv/cv
