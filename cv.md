@@ -11,6 +11,7 @@
 ## I have basic skills in ##
 * #### Html ####
 * #### Css ####
+* #### JS ####
 * #### Git ####
 * #### Illustrator ####
 * #### Photoshop ####
@@ -24,10 +25,38 @@
   </head>
     <body>
         <h1>WebShop</h1>
+        <p align="right">...</p>
         <p>...</p>
-        <p>...</p>
+        <ol>
+            <li>...</li>
+            <li>...</li>
+            <li>...</li>
+        </ol>
+        <table>
+            <thead>
+            <tr>
+                <th>...</th>
+                <th>...</th>
+            </tr>
+            </thead>
+            <tr>
+                <td colspan="2">...</td>
+                <td>...</td>
+            </tr>
+        </table>
     </body>
   </html>
+  ```
+
+  ```
+function checkAge(age) {
+  if (age > 18) {
+    return true;
+  } else {
+    // ...
+    return confirm('');
+  }
+}
   ```
 
 ## Education ##
